@@ -68,6 +68,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-rtp2httpd luci-i18n-rtp2httpd-zh-cn"
 # open-vm-tools
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES open-vm-tools"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES open-vm-tools-fuse"
+# 解锁网易云音乐
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-unblockneteasemusic"
 
 #===========================以下imm仓库内的软件==============================↓
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-3cat-zh-cn"
